@@ -1,5 +1,12 @@
 ![Header](https://github.com/hydrospirt/hydrospirt/blob/master/assets/header.png)
-### Hi there 👋
+
+## Content/Backend Creator
+
+```
+Spawn: Aren't there any normal people left on Earth? Or is everybody just back from Hell?
+
+-- Spawn
+```
 - My first programm on Python:
 ```
 print('Hello World %)
@@ -12,14 +19,6 @@ ________________________________________
 ███████╗██║░░██║██║░░██║╚█████╔╝██║░░██║
 ╚══════╝╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝
 ________________________________________
-```
-
-## Content/Backend Creator
-
-```
-Spawn: Aren't there any normal people left on Earth? Or is everybody just back from Hell?
-
--- Spawn
 ```
 
 ### Languages and Tools:
@@ -38,6 +37,6 @@ Spawn: Aren't there any normal people left on Earth? Or is everybody just back f
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/arcan1um)
-[![Nintendo](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)](https://www.nintendo.com/us/)
+[![Nintendo](https://img.shields.io/badge/Nintendo_Switch-090909?style=for-the-badge&logo=nintendo-switch&logoColor=red)](https://www.nintendo.com/us/)
 [![STEAM](https://img.shields.io/badge/Steam-090909?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/hydrospirt/)
-[![YouTube](https://img.shields.io/badge/YouTube-090909?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9rpZSzfSbHOk_BUPvO6Zjg)
+[![YouTube](https://img.shields.io/badge/YouTube-090909?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UC9rpZSzfSbHOk_BUPvO6Zjg)
