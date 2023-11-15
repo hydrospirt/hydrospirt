@@ -1,6 +1,6 @@
 ![Header](https://github.com/hydrospirt/hydrospirt/blob/master/assets/header.png)
 
-## Content/Backend Creator
+## Content Creator/Backend Developer
 
 ```
 Spawn: Aren't there any normal people left on Earth? Or is everybody just back from Hell?
@@ -30,9 +30,9 @@ ________________________________________
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
 ![SQLite](https://img.shields.io/badge/SQLite-090909?style=for-the-badge&logo=sqlite&logoColor=07405E)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-090909?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-090909?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-090909?style=for-the-badge&logo=visual%20studio%20code&logoColor=6296C)
 ![Pycharm](https://img.shields.io/badge/PyCharm-090909.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git&logoColor=orange)
 
 
 ### Socials:
