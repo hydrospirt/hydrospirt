@@ -1,12 +1,15 @@
 ![Header](https://github.com/hydrospirt/hydrospirt/blob/master/assets/header.png)
 
 ## Content Creator/Backend Developer
+![MyAwesomeViews](https://komarev.com/ghpvc/?username=hydrospirt&abbreviated=true&label=Просмотры+Профиля&style=for-the-badge)
 
 ```
 Spawn: Aren't there any normal people left on Earth? Or is everybody just back from Hell?
 
 -- Spawn
 ```
+
+![My Simple Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hydrospirt&layout=donut&theme=chartreuse-dark&locale=ru) ![Wooow](https://github-readme-stats.vercel.app/api?username=hydrospirt&show_icons=true&theme=chartreuse-dark&locale=ru)
 - My first programm on Python:
 ```
 print('Hello World %)
