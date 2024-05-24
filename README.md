@@ -10,20 +10,12 @@ Spawn: Aren't there any normal people left on Earth? Or is everybody just back f
 ```
 
 ![My Simple Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hydrospirt&layout=donut&theme=chartreuse-dark&locale=ru) ![Wooow](https://github-readme-stats.vercel.app/api?username=hydrospirt&show_icons=true&theme=chartreuse-dark&locale=ru)
-- My first programm on Python:
 ```
-print('Hello World %)
-________________________________________
-
-███████╗██████╗░██████╗░░█████╗░██████╗░
-██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗
-█████╗░░██████╔╝██████╔╝██║░░██║██████╔╝
-██╔══╝░░██╔══██╗██╔══██╗██║░░██║██╔══██╗
-███████╗██║░░██║██║░░██║╚█████╔╝██║░░██║
-╚══════╝╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝
-________________________________________
+    |\__/,|   (`\
+  _.|o o  |_   ) )
+-(((---(((--------
+Cheshire Cat: Only a few find the way, some don’t recognize it when they do – some… don’t ever want to.
 ```
-
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=6296C)
 ![GitHub](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github&logoColor=white)
