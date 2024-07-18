@@ -1,21 +1,19 @@
 ![Header](https://github.com/hydrospirt/hydrospirt/blob/master/assets/header.png)
 
-## Content Creator/Backend Developer
+## Simple Python Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2186F7&multiline=true&width=500&height=100&lines=%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B5+%D0%BB%D1%83%D1%87%D1%88%D0%B5+%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D0%B3%D0%BE.;%D0%A1%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D0%B5+%D0%BB%D1%83%D1%87%D1%88%D0%B5+%D0%B7%D0%B0%D0%BF%D1%83%D1%82%D0%B0%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE.;%D0%A1%D0%B5%D0%B9%D1%87%D0%B0%D1%81+%D0%BB%D1%83%D1%87%D1%88%D0%B5%2C+%D1%87%D0%B5%D0%BC+%D0%BD%D0%B8%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0.)](https://git.io/typing-svg)
+
 ![MyAwesomeViews](https://komarev.com/ghpvc/?username=hydrospirt&abbreviated=true&label=Просмотры+Профиля&style=for-the-badge)
 
-```
-Spawn: Aren't there any normal people left on Earth? Or is everybody just back from Hell?
-
--- Spawn
-```
-
-![My Simple Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hydrospirt&layout=donut&theme=chartreuse-dark&locale=ru) ![Wooow](https://github-readme-stats.vercel.app/api?username=hydrospirt&show_icons=true&theme=chartreuse-dark&locale=ru)
 ```
     |\__/,|   (`\
   _.|o o  |_   ) )
 -(((---(((--------
 Cheshire Cat: Only a few find the way, some don’t recognize it when they do – some… don’t ever want to.
 ```
+
+![My Simple Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hydrospirt&layout=donut&theme=chartreuse-dark&locale=ru) ![Wooow](https://github-readme-stats.vercel.app/api?username=hydrospirt&show_icons=true&theme=chartreuse-dark&locale=ru)
+
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=6296C)
 ![GitHub](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github&logoColor=white)
