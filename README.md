@@ -30,6 +30,4 @@ Cheshire Cat: Only a few find the way, some donâ€™t recognize it when they do â€
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/arcan1um)
-[![Nintendo](https://img.shields.io/badge/Nintendo_Switch-090909?style=for-the-badge&logo=nintendo-switch&logoColor=red)](https://www.nintendo.com/us/)
-[![STEAM](https://img.shields.io/badge/Steam-090909?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/hydrospirt/)
-[![YouTube](https://img.shields.io/badge/YouTube-090909?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UC9rpZSzfSbHOk_BUPvO6Zjg)
+[![Gmail](https://img.shields.io/badge/gmail-090909?style=for-the-badge&logo=gmail&logoColor=red)](mailto:eduardgumen@gmail.ru)
